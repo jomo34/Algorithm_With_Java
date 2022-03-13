@@ -7,7 +7,7 @@
 + After the trip, each student’s expenses are tallied and money  is exchanged so that the net cost to each is the same, to  within 10 won. In the past, this money exchanges has been  tedious and time consuming.
 + Your job is to compute, from a list of expenses, the minimum  amount of money that must change hands in order to equalize  (within one won) all the students’ costs.
 
-
+***
 
 ### Input
 ```
