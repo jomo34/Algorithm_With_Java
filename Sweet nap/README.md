@@ -1,8 +1,13 @@
 # Sweet nap
  
 ### Explan
++ Student lead very busy lives with full schedules of work and appointments.
++ Student J likes to nap during the day, but her schedule is so busy that she doesn't have many chances to do so.
++ She really wants to take one nap every day, however.
++ Naturally, she wants to the longest nap possible given her schedule.
++ Write a program to help heer with the task.
 
-![](https://images.velog.io/images/jomo34/post/30ecdbbf-d539-42f9-9ba7-a178be6c70c8/image.png)
+***
 
 ### Input
 ```
@@ -14,9 +19,9 @@
 ```
 + The first line is integer, representing the number of scheduled appointments for day.
 + The next lines contain the appointments in the format time1 time2, where time1 represents the time which the appointment starts and time2 the time it ends.
-+ All times will be in the hh:mm format; the ending time will always be strictly after the starting time, and separated by a single space
-+ All times will be greater than or equal of 10:00 and less than or  equal to 18:00.
-+ You cannot assume, however, that the input will be in any specific  order
++ All times will be in the hh:mm format; the ending time will always be strictly after the starting time, and separated by a single space.
++ All times will be greater than or equal of 10:00 and less than or equal to 18:00.
++ You cannot assume, however, that the input will be in any specific order.
 + However, input may not be order in chronological order of the schedule.
 
 ***
