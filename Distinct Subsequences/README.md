@@ -1,3 +1,5 @@
+# Distinct Subsequences
+
 ### Explan
 
 + Design a code that determines the number of cases in which the string X appears in the string Z.
